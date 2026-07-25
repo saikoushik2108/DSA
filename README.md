@@ -19,6 +19,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/saikoushik2108/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/saikoushik2108/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1729-find-followers-count](https://github.com/saikoushik2108/DSA/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/saikoushik2108/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/saikoushik2108/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
