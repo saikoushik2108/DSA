@@ -13,6 +13,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/saikoushik2108/DSA/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/saikoushik2108/DSA/tree/master/0180-consecutive-numbers) |
 | [0596-classes-with-at-least-5-students](https://github.com/saikoushik2108/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/saikoushik2108/DSA/tree/master/0610-triangle-judgement) |
