@@ -24,6 +24,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/saikoushik2108/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/saikoushik2108/DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/saikoushik2108/DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1341-movie-rating](https://github.com/saikoushik2108/DSA/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/saikoushik2108/DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/saikoushik2108/DSA/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/saikoushik2108/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
