@@ -92,4 +92,12 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saikoushik2108/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/saikoushik2108/DSA/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/saikoushik2108/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
