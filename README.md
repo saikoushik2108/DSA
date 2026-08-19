@@ -44,15 +44,18 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saikoushik2108/DSA/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/saikoushik2108/DSA/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saikoushik2108/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/saikoushik2108/DSA/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/saikoushik2108/DSA/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikoushik2108/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -96,6 +100,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saikoushik2108/DSA/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Interactive
 |  |
 | ------- |
