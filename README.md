@@ -45,6 +45,7 @@
 | [0014-longest-common-prefix](https://github.com/saikoushik2108/DSA/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/saikoushik2108/DSA/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikoushik2108/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/saikoushik2108/DSA/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikoushik2108/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
 | ------- |
