@@ -46,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/saikoushik2108/DSA/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikoushik2108/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saikoushik2108/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/saikoushik2108/DSA/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saikoushik2108/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikoushik2108/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saikoushik2108/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String Matching
 |  |
 | ------- |
@@ -103,8 +106,13 @@
 | [0278-first-bad-version](https://github.com/saikoushik2108/DSA/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikoushik2108/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saikoushik2108/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saikoushik2108/DSA/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saikoushik2108/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
