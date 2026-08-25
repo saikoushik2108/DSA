@@ -47,12 +47,14 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikoushik2108/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saikoushik2108/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saikoushik2108/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saikoushik2108/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/saikoushik2108/DSA/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saikoushik2108/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saikoushik2108/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
